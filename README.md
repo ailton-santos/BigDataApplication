@@ -1,5 +1,7 @@
 # Big Data Application
 
+## Ailton Santos
+
 Application of Big Data Application by using Dask, efficiently perform parallel computations on a single machine using multi-core CPUs. 
 
 - Differences-Between-Spark-and-Dask
